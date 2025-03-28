@@ -1,5 +1,12 @@
+/// <summary>
+/// Codeunit SOAP Service NBO (ID 50201).
+/// </summary>
 codeunit 50201 "SOAP Service NBO"
 {
+    /// <summary>
+    /// CallSOAPService.
+    /// </summary>
+    /// <returns>Return variable Response of type Text.</returns>
     procedure CallSOAPService() Response: Text
     var
         HttpClientL: HttpClient;
@@ -34,10 +41,10 @@ codeunit 50201 "SOAP Service NBO"
         HttpResponseL.Content.ReadAs(ResponseTextL);
 
         // Process the XML response
-        XMLtoJSON.ReadXml(ResponseTextL);
+        // XMLtoJSON.ReadXml(ResponseTextL); // Call method for 2 way
 
-        // Return the response text (if needed)
-        // exit(ResponseTextL);
+        //Return the response text (if needed)
+        exit(ResponseTextL);
     end;
 
     local procedure DynamicRequestBody() ReturnBody: Text

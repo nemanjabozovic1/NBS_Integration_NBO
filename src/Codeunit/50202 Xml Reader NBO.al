@@ -1,5 +1,12 @@
+/// <summary>
+/// Codeunit XML Reader NBO (ID 50202).
+/// </summary>
 codeunit 50202 "XML Reader NBO"
 {
+    /// <summary>
+    /// ReadXml.
+    /// </summary>
+    /// <param name="XmlDataP">Text.</param>
     procedure ReadXml(XmlDataP: Text)
     var
         XmlDocL: XmlDocument;

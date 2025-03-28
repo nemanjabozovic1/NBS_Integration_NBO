@@ -1,3 +1,6 @@
+/// <summary>
+/// Table NBS Setup NBO (ID 50200).
+/// </summary>
 table 50200 "NBS Setup NBO"
 {
     fields
@@ -44,7 +47,10 @@ table 50200 "NBS Setup NBO"
         }
     }
 
-    procedure InsertIfExist()
+    /// <summary>
+    /// InsertIfExist.
+    /// </summary>
+    local procedure InsertIfExist()
     begin
         Reset();
         If Not Get() then begin

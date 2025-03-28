@@ -6,8 +6,6 @@ page 50201 "XML Buffer NBO"
     SourceTable = "XML Buffer";
     UsageCategory = Lists;
 
-
-
     layout
     {
         area(Content)

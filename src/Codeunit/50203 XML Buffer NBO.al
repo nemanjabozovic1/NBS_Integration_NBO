@@ -1,3 +1,6 @@
+/// <summary>
+/// Codeunit XML Buffer NBO (ID 50203).
+/// </summary>
 codeunit 50203 "XML Buffer NBO"
 {
 
@@ -6,6 +9,9 @@ codeunit 50203 "XML Buffer NBO"
         ProcessXML();
     end;
 
+    /// <summary>
+    /// ProcessXML.
+    /// </summary>
     procedure ProcessXML()
     var
 

@@ -53,6 +53,51 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table XML Blob NBO - Field Code - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 2719548401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates that will be used by the Adjust Exchange Rates batch job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control AdjustmentExchRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 567887726 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control CurrencyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 4185151991 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates for the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control ExchangeRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 1998169606 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the currency's exchange rate can be changed on invoices and journal lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control FixExchangeRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 1507917211 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates that will be used by the Adjust Exchange Rates batch job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control RelationalAdjmtExchRateAmt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 2747766171 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how you want to set up the two currencies, one of the currencies can be LCY, for which you want to register exchange rates.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control RelationalCurrencyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 2337379133 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates for the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control RelationalExchRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 543275552 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date on which the exchange rate on this line comes into effect.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control StartingDate - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 515531629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>NBS Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>

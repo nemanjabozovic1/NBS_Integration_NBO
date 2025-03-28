@@ -1,4 +1,6 @@
-
+/// <summary>
+/// PageExtension Currencies NBO (ID 50201) extends Record Currencies.
+/// </summary>
 pageextension 50201 "Currencies NBO" extends "Currencies"
 {
     actions
@@ -17,10 +19,20 @@ pageextension 50201 "Currencies NBO" extends "Currencies"
                     ResponseL: Text;
                 begin
                     // Call the SOAP service and retrieve the response and process XML data | 1 way
-                    ResponseL := CallSOAPService.CallSOAPService();
+                    // ResponseL := CallSOAPService.CallSOAPService();
 
                     // Optionally display of the response (for testing purposes of XML buffer table) | 2 way
                     // TempXMLBuffer.Run();
+
+                    // Try to transform XML data to XML Attrubutes Collection | 3 way
+                    // ResponseL := CallSOAPService.CallSOAPService();
+                    // XMLCollectionNBO.TransformToXmlCollection(ResponseL);
+                    // ResponseL := PowerAutomateNBO.SendDataToPowerAutomateFlow(ResponseL);
+
+                    // Processing XML data in Power Automate | 4 way
+                    ResponseL := CallSOAPService.CallSOAPService();
+                    // Message(ResponseL);
+                    PowerAutomateNBO.SendDataToPowerAutomateFlow(ResponseL);
                 end;
             }
         }
@@ -29,4 +41,6 @@ pageextension 50201 "Currencies NBO" extends "Currencies"
     var
         CallSOAPService: Codeunit "SOAP Service NBO";
         TempXMLBuffer: Codeunit "XML Buffer NBO";
+        XMLCollectionNBO: Codeunit "XML Collection NBO";
+        PowerAutomateNBO: Codeunit "Power Automate NBO";
 }

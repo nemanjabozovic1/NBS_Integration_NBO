@@ -1,5 +1,6 @@
 page 50200 "NBS Setup NBO"
 {
+    //props
     ApplicationArea = All;
     Caption = 'NBS Setup';
     PageType = Card;
