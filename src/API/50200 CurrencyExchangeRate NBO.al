@@ -1,3 +1,6 @@
+/// <summary>
+/// Page Currency Exchange Rate NBO (ID 50202).
+/// </summary>
 page 50202 "Currency Exchange Rate NBO"
 {
     APIGroup = 'NBS';
