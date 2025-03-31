@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="NBS Integration NBO">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 515531629 - Field 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 515531629 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 515531629 - Field 2783384778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Licence Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field LicenceId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 515531629 - Field 2783384778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Licence Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field LicenceId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 515531629 - Field 2575460289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field Password - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 515531629 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 515531629 - Field 3549826426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Username</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field UserName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 515531629 - Field 3549826426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBS Setup NBO - Field UserName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1014791419 - Field 3926698677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table XML Blob NBO - Field Blob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1014791419 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table XML Blob NBO - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 2719548401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates that will be used by the Adjust Exchange Rates batch job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control AdjustmentExchRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 567887726 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control CurrencyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 4185151991 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates for the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control ExchangeRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 1998169606 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the currency's exchange rate can be changed on invoices and journal lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control FixExchangeRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 1507917211 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates that will be used by the Adjust Exchange Rates batch job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control RelationalAdjmtExchRateAmt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 2747766171 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how you want to set up the two currencies, one of the currencies can be LCY, for which you want to register exchange rates.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control RelationalCurrencyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 2337379133 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates for the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control RelationalExchRateAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3954980831 - Control 543275552 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date on which the exchange rate on this line comes into effect.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Exchange Rate NBO - Control StartingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 515531629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NBS Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBS Setup NBO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 515531629 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBS Setup NBO - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 515531629 - Control 2783384778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Licence Id field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBS Setup NBO - Control LicenceId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 515531629 - Control 2575460289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Password field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBS Setup NBO - Control Password - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 515531629 - Control 3549826426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the UserName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBS Setup NBO - Control UserName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 2145620180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Data Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 814761759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Depth</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Depth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 751065732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Import ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 204440125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Namespace</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Namespace - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 1838266565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Node Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Node Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 1068272785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Parent Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 2206733951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 1131619133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3258930054 - Control 1461782092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value BLOB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page XML Buffer NBO - Control Value BLOB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4067067382 - Action 3100066576 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4081634891">
+          <source>Calls an external Exchange Rate Service to retrieve the latest exchange rates.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Currencies NBO - Action Exchange Rate Service - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
