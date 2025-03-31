@@ -7,6 +7,7 @@ codeunit 50204 "XML Collection NBO"
     /// TransformToXmlCollection.
     /// </summary>
     /// <param name="XmlDataP">Text.</param>
+    /// <returns>Return variable Response of type Text.</returns>
     procedure TransformToXmlCollection(XmlDataP: Text) Response: Text;
     var
         // XML elements
